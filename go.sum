@@ -2,3 +2,5 @@ github.com/luthfyhakim/go-say-hello v1.0.0 h1:xmUM2VGRrhC5CcNUxWjU3Oo+xhklaVCCG/
 github.com/luthfyhakim/go-say-hello v1.0.0/go.mod h1:EahMU8mToZizLwIyV3WUFv2yU39hI+S8VUM0S4NVzIc=
 github.com/luthfyhakim/go-say-hello v1.1.0 h1:E1IBDxEQ80kddBCmHGiOBQTNas6NntmhWrXlqBtudgw=
 github.com/luthfyhakim/go-say-hello v1.1.0/go.mod h1:EahMU8mToZizLwIyV3WUFv2yU39hI+S8VUM0S4NVzIc=
+github.com/luthfyhakim/go-say-hello/v2 v2.0.0 h1:EVhXmSSjNM86eTgtYwu5rqzhwMgTQvVX7SHEbylqkU4=
+github.com/luthfyhakim/go-say-hello/v2 v2.0.0/go.mod h1:rsyS0QANKFkBcWkgwRrV1ou6x7UkxwfBT3Cs6bSm5II=
